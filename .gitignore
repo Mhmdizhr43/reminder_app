@@ -1,0 +1,13 @@
+/.htaccess
+/add_schedule.php
+/admin
+/assets
+/config.php
+/delete_schedule.php
+/edit_schedule.php
+/login.php
+/logout.php
+/register.php
+/send_reminders.php
+/verify.php
+/view_schedule.php
